@@ -7,3 +7,4 @@ opencv-contrib-python-headless
 Pillow
 setuptools
 wheel
+python==3.10.13
